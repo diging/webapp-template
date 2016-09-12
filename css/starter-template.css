@@ -1,0 +1,52 @@
+body {
+  padding-top: 70px;
+}
+
+body, p, table, div, input {
+	font-family: 'Raleway', sans-serif;
+}
+
+#commonNavigation .div {
+    font-family: 'Roboto', sans-serif;
+}
+
+#commonNavigation .navbar-inverse {
+    background-color: #f3f3f3;
+    border-color: #e6e5e5;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+
+
+#commonNavigation .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #333;
+    background-color: #e0e0e0;
+}
+
+#commonNavigation .navbar-inverse .navbar-brand {
+    color: #333;
+}
+
+#commonNavigation .navbar-inverse .navbar-nav>li>a {
+    color: #333;
+}
+
+#commonNavigation .navbar-nav>li>a {
+    line-height: 2px;
+}
+
+#commonNavigation .navbar {
+    min-height: 30px;
+}
+
+#commonNavigation .navbar-brand {
+    float: left;
+    height: 30px;
+    padding: 5px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
